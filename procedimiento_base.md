@@ -25,4 +25,9 @@ npm init - endpoint: server-js - MIT
 
 - Estructurando el proyecto con la configuración como punto de partida:
 
+- Creación del fichero .gitignore en la raíz del proyecto,
+- inicialización del repositorio
 
+
+- MODELOS
+    - se crea una carpeta en la raíz del proyecto "models"
