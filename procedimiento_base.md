@@ -31,3 +31,17 @@ npm init - endpoint: server-js - MIT
 
 - MODELOS
     - se crea una carpeta en la raíz del proyecto "models"
+
+
+- instalar gravatar 
+npm i gravatar
+
+- implementación ok en Routes folder
+
+
+- JWT:
+
+
+# CREANDO VALIDACIONES
+
+    - se crea carpeta validation con register.js y login.js
